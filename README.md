@@ -13,4 +13,8 @@
 
 ---
 
+Credit to [cdjq](https://github.com/cdjq/esphome) for the base dfrobot_c4002 component code. 
+
+---
+
 [![ESPHome - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/esphome.png)](https://www.openhomefoundation.org/)
